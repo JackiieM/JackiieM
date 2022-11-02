@@ -22,7 +22,7 @@ I'm a junior front-end web developer from Chile! Learning and helping people lea
 </div>
 
 <a href="https://github.com/JackiieM/github-readme-stats">
-  <img align="center" src="![JackiieM's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackiieM&hide=stars,prs&show_icons=true&bg_color=E6DFE2&title_color=5B222F&icon_color=82616F)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JackiieM&hide=stars,prs&show_icons=true&bg_color=E6DFE2&title_color=5B222F&icon_color=82616F" />
 </a>
 <a href="https://github.com/JackiieM">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackiieM&show_icons=true&bg_color=E6DFE2&title_color=5B222F&icon_color=82616F&layout=compact" />
