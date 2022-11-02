@@ -9,16 +9,18 @@ I'm a junior front-end web developer from Chile! Learning and helping people lea
 <div align="center">
     <h3>My Languages and Tools ✨</h3>
     <p align="center">
-        <img src="https://skillicons.dev/icons?i=ps,figma,git,github,css,html,js,firebase,nodejs,react,vite,vscode&theme=light&perline=4"/>
+        <img src="https://skillicons.dev/icons?i=ps,figma,git,github,css,html,js,firebase,nodejs,react,vite,vscode&theme=light&perline=6"/>
     </p>
 </div>
 
 <div align="center">
     <h3>Find me here:</h3>
     <p align="center">
-        <p>LinkedIn:</p>
         <a href="https://www.linkedin.com/in/jackiemontecinos/">
         <img src="https://skillicons.dev/icons?i=linkedin&theme=light"/>
         </a>
-    </p>
 </div>
+
+  <img align="center" src="![JackiieM's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackiieM&hide=stars,prs&show_icons=true&bg_color=E6DFE2&title_color=5B222F&icon_color=82616F)" />
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackiieM&show_icons=true&bg_color=E6DFE2&title_color=5B222F&icon_color=82616F&layout=compact" />
