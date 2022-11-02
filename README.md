@@ -9,8 +9,16 @@ I'm a junior front-end web developer from Chile! Learning and helping people lea
 <div align="center">
     <h3>My Languages and Tools ✨</h3>
     <p align="center">
-        <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=ps,figma,git,github,css,html,js,firebase,nodejs,react,vite,vscode&theme=light&perline=4 " />
+        <img src="https://skillicons.dev/icons?i=ps,figma,git,github,css,html,js,firebase,nodejs,react,vite,vscode&theme=light&perline=4"/>
+    </p>
+</div>
+
+<div align="center">
+    <h3>Find me here:</h3>
+    <p align="center">
+        <p>LinkedIn:</p>
+        <a href="https://www.linkedin.com/in/jackiemontecinos/">
+        <img src="https://skillicons.dev/icons?i=linkedin&theme=light"/>
         </a>
     </p>
 </div>
